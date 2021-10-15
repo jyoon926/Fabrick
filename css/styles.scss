@@ -27,7 +27,7 @@ a {
     height: 100vh;
     position: fixed;
     top: 0; left: 0;
-    background: radial-gradient(ellipse at top, $light, transparent), radial-gradient(ellipse at bottom, $medium, transparent);
+    background: radial-gradient(ellipse at bottom, white, $light), radial-gradient(ellipse at top, transparent, $light);
 }
 #header {
     z-index: 1;

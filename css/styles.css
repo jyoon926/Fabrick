@@ -24,7 +24,7 @@ a {
   position: fixed;
   top: 0;
   left: 0;
-  background: radial-gradient(ellipse at top, #DFD3C5, transparent), radial-gradient(ellipse at bottom, #C6A691, transparent);
+  background: radial-gradient(ellipse at bottom, white, #DFD3C5), radial-gradient(ellipse at top, transparent, #DFD3C5);
 }
 
 #header {
